@@ -38,15 +38,15 @@ Here are some ideas to get you started:
   <tr>
     <td>
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishLohiya&show_icons=true&theme=dracula)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijanhv&show_icons=true&theme=dracula)
    </td>
 
    <td>  
 
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnishLohiya&theme=dracula)
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ijanhv&theme=dracula)
      </td>
       </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ijanhva&&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ijanhv&&theme=dracula)
 
