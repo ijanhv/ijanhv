@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/janhavi_p1516" target="blank"><img src="https://img.shields.io/twitter/follow/janhavi_p1516?logo=twitter&style=for-the-badge" alt="janhavi_p1516" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **Full stack Development.**
 
 - 📫 How to reach me **patil.janhavi1207@gmail.com**
 
