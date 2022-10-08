@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
-<h1 align="center">Hi, <img src="https://user-images.githubusercontent.com/89148021/129923397-4c238cf0-ac67-4aca-beac-d0b23da73da1.gif" width="40px"> I'm Janhavi Patil</h1>
+<h1 align="center">Hi, <img src="https://user-images.githubusercontent.com/89148021/129923397-4c238cf0-ac67-4aca-beac-d0b23da73da1.gif" width="30px"> I'm Janhavi Patil</h1>
 <h3 align="center">An engineering student from Mumbai.</h3>
 
 
