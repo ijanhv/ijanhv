@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Full stack Development.**
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **DSA and Blockchain Development**
 
 - 📫 How to reach me **patil.janhavi1207@gmail.com**
 
