@@ -65,5 +65,7 @@ Here are some ideas to get you started:
       </tr>
   </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ijanhv&&theme=dracula)
+[![Janhavi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ijanhv)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ijanhv&&theme=dracula) -->
 
