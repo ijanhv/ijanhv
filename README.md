@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/janhavi_p1516" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="janhavi_p1516" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/janhavi-patil-2847a1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janhavi-patil-2847a1212" height="30" width="40" /></a>
-<a href="https://instagram.com/patil_janhavi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patil_janhavi7" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ijanhv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ijanhv" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ijanhv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ijanhv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ijanhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ijanhav" height="30" width="40" /></a>
+<a href="https://twitter.com/janhavi_p1516" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="janhavi_p1516" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/janhavi-patil-2847a1212" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/640px-Linkedin_icon.svg.png" alt="janhavi-patil-2847a1212" height="30" width="30" /></a>
+<a href="https://instagram.com/patil_janhavi7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" alt="patil_janhavi7" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/ijanhv" target="blank"><img align="center" src="https://scontent.fbom3-1.fna.fbcdn.net/v/t39.30808-6/270124628_4454249091370370_5906273476428393140_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=STRFGmHbCusAX9xeU5R&_nc_ht=scontent.fbom3-1.fna&oh=00_AfCPsAcOYqKbs90xeuPL6P4PYjbZtVQEeVBt8eThaVua7g&oe=63A15C8B" alt="ijanhv" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/ijanhv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/640px-HackerRank_Icon-1000px.png" alt="ijanhv" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/ijanhav" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Leetcode.svg/640px-Leetcode.svg.png" alt="ijanhav" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
