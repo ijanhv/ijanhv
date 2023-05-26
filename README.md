@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">An engineering student from Mumbai.</h3> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijanhv&label=Profile%20views&color=0e75b6&style=flat" alt="ijanhv" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijanhv&label=Profile%20views&color=0e75b6&style=flat" alt="ijanhv" /> </p>
+ -->
 <p align="left"> <a href="https://twitter.com/janhavi_p1516" target="blank"><img src="https://img.shields.io/twitter/follow/janhavi_p1516?logo=twitter&style=for-the-badge" alt="janhavi_p1516" /></a> </p>
 
 <img src="https://static.vecteezy.com/system/resources/previews/000/227/854/original/female-developer-vector.jpg" width="400px" alt="image" align="right" />
