@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 # Badges:
 <div style="display:flex;justify-content:center;">
-    <img src="https://github.com/ijanhv/ijanhv/assets/90978757/0ed9739a-2043-497f-9761-a38a6b386097.jpg" alt="Image 1" style="width:170px;">
-    <img src="https://github.com/ijanhv/ijanhv/assets/90978757/20c562d0-81ed-43f0-8b73-cd0b53ca419c.jpg" alt="Image 2" style="width:170px;">
-    <img src="https://github.com/ijanhv/ijanhv/assets/90978757/0c5e289e-8440-451f-9b62-42b62f5f69c4.jpg" alt="Image 3" style="width:170px;">
-    <img src="https://github.com/ijanhv/ijanhv/assets/90978757/4983689c-1592-4955-856f-8e20ceb9546d.jpg" alt="Image 4" style="width:170px;">
-    <img src="https://github.com/ijanhv/ijanhv/assets/90978757/47f8aecd-9869-479a-9e42-a5acb2069769.jpg" alt="Image 5" style="width:170px;">
+    <img src="https://github.com/ijanhv/ijanhv/assets/90978757/0ed9739a-2043-497f-9761-a38a6b386097.jpg" alt="Image 1" style="width:160px;">
+    <img src="https://github.com/ijanhv/ijanhv/assets/90978757/20c562d0-81ed-43f0-8b73-cd0b53ca419c.jpg" alt="Image 2" style="width:160px;">
+    <img src="https://github.com/ijanhv/ijanhv/assets/90978757/0c5e289e-8440-451f-9b62-42b62f5f69c4.jpg" alt="Image 3" style="width:160px;">
+    <img src="https://github.com/ijanhv/ijanhv/assets/90978757/4983689c-1592-4955-856f-8e20ceb9546d.jpg" alt="Image 4" style="width:160px;">
+    <img src="https://github.com/ijanhv/ijanhv/assets/90978757/47f8aecd-9869-479a-9e42-a5acb2069769.jpg" alt="Image 5" style="width:160px;">
 <!--     <img src="https://github.com/ijanhv/ijanhv/assets/90978757/72efb7d7-d268-4591-bc6d-ea67ff231aa9.jpg" alt="Image 6" style="width:170px;"> -->
 </div>
 
