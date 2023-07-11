@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  -->
 <p align="left"> <a href="https://twitter.com/janhavi_p1516" target="blank"><img src="https://img.shields.io/twitter/follow/janhavi_p1516?logo=twitter&style=for-the-badge" alt="janhavi_p1516" /></a> </p>
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-7771248-6200254.png" width="500px" alt="image" align="right" />
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-7771248-6200254.png" width="450px" alt="image" align="right" />
 
 
 - 🔭 I’m currently working on **Full stack Development.**
