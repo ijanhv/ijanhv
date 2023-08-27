@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 :crystal_ball: I’m currently working on **Full stack Development.** 
 
-🕺📺  You'd find me watching Modern Family 👨‍👩‍👦‍👦 when I'm not 👀 intensely staring at vscode 💻.
 
 :dart: I’m currently learning **DSA and DevOps**
+
+🕺📺  You'd find me watching Modern Family 👨‍👩‍👦‍👦 when I'm not 👀 intensely staring at vscode 💻.
 
 📫 How to reach me **patil.janhavi1207@gmail.com**
 
