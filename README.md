@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-7771248-6200254.png" width="450px" alt="image" align="right" />
 
 
-- 🔭 I’m currently working on **Full stack Development.**
+:crystal_ball: I’m currently working on **Full stack Development.** 
 
-- 🌱 I’m currently learning **DSA and DevOps**
+:dart: I’m currently learning **DSA and DevOps**
 
-- 📫 How to reach me **patil.janhavi1207@gmail.com**
+📫 How to reach me **patil.janhavi1207@gmail.com**
 
-- 💬 Ask me about **ReactJS**
+:star2: Go check out my portfolio https://janhavi.vercel.app/
 
 
 ## 🌐 Socials:
