@@ -28,11 +28,13 @@ Here are some ideas to get you started:
 
 :crystal_ball: I’m currently working on **Full stack Development.** 
 
+🕺📺  You'd find me watching Modern Family 👨‍👩‍👦‍👦 when I'm not 👀 intensely staring at vscode 💻.
+
 :dart: I’m currently learning **DSA and DevOps**
 
 📫 How to reach me **patil.janhavi1207@gmail.com**
 
-:star2: Go check out my portfolio https://janhavi.vercel.app/
+🌟 Check out my portfolio: https://janhavi.vercel.app/! It's where code and creativity collide. :wink:
 
 
 ## 🌐 Socials:
