@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 :dart: I’m currently learning **DSA and DevOps**
 
-🕺📺  You'd find me watching Modern Family 👨‍👩‍👦‍👦 when I'm not 👀 intensely staring at vscode 💻.
+🕺📺  You'd find me watching Modern Family 👨‍👩‍👦‍👦 when I'm not 👀 staring at vscode 💻.
 
 📫 How to reach me **patil.janhavi1207@gmail.com**
 
