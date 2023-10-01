@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 :dart: I’m currently learning **DSA and DevOps**
 
-🕺📺  You'd find me watching Modern Family 👨‍👩‍👦‍👦 when I'm not 👀 staring at vscode 💻.
+📺  You'd find me watching Modern Family when I'm not 👀 staring at vscode 💻.
 
 📫 How to reach me **patil.janhavi1207@gmail.com**
 
-🌟 Check out my portfolio: https://janhavi.vercel.app/! It's where code and creativity collide. :wink:
+🌟 Check out my portfolio: https://janhavi.vercel.app/! It's where code and creativity collide. 
 
 
 ## 🌐 Socials:
