@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me **patil.janhavi1207@gmail.com**
 
-🌟 Check out my portfolio: https://janhavi.vercel.app/ It's where code and creativity collide. 
+🌟 Check out my portfolio: https://janhavi-patil-portfolio2-0.vercel.app It's where code and creativity collide. 
 
 
 ## 🌐 Socials:
