@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijanhv&label=Profile%20views&color=0e75b6&style=flat" alt="ijanhv" /> </p>
  -->
-<p align="left"> <a href="https://twitter.com/janhavi_p1516" target="blank"><img src="https://img.shields.io/twitter/follow/janhavi_p1516?logo=twitter&style=for-the-badge" alt="janhavi_p1516" /></a> </p>
+<p align="left"> <a href="https://twitter.com/janv.codes" target="blank"><img src="https://img.shields.io/twitter/follow/janv.codes?logo=twitter&style=for-the-badge" alt="janv.codes" /></a> </p>
 
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-7771248-6200254.png" width="450px" alt="image" align="right" />
 
 
-:crystal_ball: I’m currently working on **Full stack Development.** 
+:crystal_ball: Diving deep into **Docker** and **Full stack Development.** 
 
+🚀 Self-Hosting Advocate – Embracing the power of DIY over ready-made solutions!
 
 :dart: I’m currently learning **DSA and DevOps**
 
@@ -35,11 +36,11 @@ Here are some ideas to get you started:
 
 📫 How to reach me **patil.janhavi1207@gmail.com**
 
-🌟 Check out my portfolio: https://janhavi-patil-portfolio2-0.vercel.app It's where code and creativity collide. 
+🌟 Check out my portfolio: https://janhavi.tech It's where code and creativity collide. 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patil_janhavi7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janhavi-patil-2847a1212) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/patiljanhavi1207) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/janhavi_p1516) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patil_janhavi7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janhavi-patil-2847a1212) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/patiljanhavi1207) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/janv.codes) 
 
 # 💻 Tech Stack:
 ### Programming Languages:
