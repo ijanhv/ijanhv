@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 🚀 Self-Hosting Advocate – Embracing the power of DIY over ready-made solutions!
 
-:dart: I’m currently learning **DSA and DevOps**
+:dart: I’m currently learning **System Design and DevOps**
 
 📺  You'd find me watching Modern Family when I'm not 👀 staring at vscode 💻.
 
-📫 How to reach me **patil.janhavi1207@gmail.com**
+📫 How to reach me **janhavi@cosedge.com**
 
 🌟 Check out my portfolio: https://janhavi.tech It's where code and creativity collide. 
 
