@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me **janhavi@cosedge.com**
 
-🌟 Check out my portfolio: https://janhavi.tech It's where code and creativity collide. 
+🌟 Check out my portfolio: [https://janhavipatil.live](https://www.janhavipatil.live) It's where code and creativity collide. 
 
 
 ## 🌐 Socials:
