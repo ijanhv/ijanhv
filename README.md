@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
-<h1 align="center">Hello, <img src="https://i.pinimg.com/originals/d8/32/10/d83210d052f3e7e4a7e78bfd16a6f23e.png" width="30px"> I'm Janhavi Patil</h1>
+<h1 align="center">Hello, <img src="https://i.pinimg.com/originals/d8/32/10/d83210d052f3e7e4a7e78bfd16a6f23e.png" width="30px"> This is Janhavi Patil</h1>
 <!-- <h3 align="center">An engineering student from Mumbai.</h3> -->
 
 
@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-7771248-6200254.png" width="450px" alt="image" align="right" />
 
-🌟 Building [Formix](https://formix.janhavipatil.live)
+🌟 Building [Formix](https://formix.janhavipatil.live) - Formix empowers developers to create elegant, responsive forms by simply selecting themes, fonts, and input types. 
 
-:crystal_ball: Diving deep into **Docker** and **Full stack Development.** 
+:crystal_ball: Diving deep into **DevOps** and **Full stack Development.** 
 
 🚀 Self-Hosting Advocate – Embracing the power of DIY over ready-made solutions!
 
