@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 📺  You'd find me watching Modern Family when I'm not 👀 staring at vscode 💻.
 
-📫 How to reach me **janhavi@cosedge.com**
+📫 How to reach me **patil.janhavi1207@gmail.com**
 
 🌟 Check out my portfolio: [https://janhavipatil.live](https://www.janhavipatil.live) It's where code and creativity collide. 
 
